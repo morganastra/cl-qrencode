@@ -1,0 +1,8 @@
+Common Lisp bindings to libqrencode using CFFI
+
+* Todo
+** Make SWIG interface file
+** Write ASDF system description
+** Add some lispy abstractions for convenience
+
+  
